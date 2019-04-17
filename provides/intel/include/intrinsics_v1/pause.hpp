@@ -1,6 +1,6 @@
 #pragma once
 
-#include "intrinsics_v1/pause_synopsis.hpp"
+#include "intrinsics_v1/synopsis.hpp"
 
 #include <immintrin.h>
 
