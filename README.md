@@ -1,4 +1,4 @@
-# [≡](#contents) [Intrinsics.C++](#) [![Build Status](https://travis-ci.org/per-framework/intrinsics.cpp.svg?branch=v1)](https://travis-ci.org/per-framework/intrinsics.cpp)
+# [≡](#contents) [Intrinsics.C++](#) [![Build Status](https://travis-ci.org/per-framework/intrinsics.cpp.svg?branch=v1)](https://travis-ci.org/per-framework/intrinsics.cpp) [![Code Coverage](https://img.shields.io/codecov/c/github/per-framework/intrinsics.cpp/v1.svg)](https://codecov.io/gh/per-framework/intrinsics.cpp/branch/v1)
 
 Low level intrinsics not provided in the C++ standard.
 
