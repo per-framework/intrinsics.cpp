@@ -1,2 +1,1 @@
-add_conventional_executable_test(intrinsics_test)
-target_link_libraries(intrinsics_test PRIVATE intrinsics_v1)
+add_conventional_executable_tests(PRIVATE intrinsics_v1)
